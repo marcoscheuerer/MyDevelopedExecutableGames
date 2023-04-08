@@ -17,20 +17,20 @@ And now in the sense of the ancient romans:
 <table>
 <thead>
   <tr>
-    <th>Release Date</th>
-    <th>Game Name</th>
-    <th>Version</th>
-    <th>Description</th>
     <th>Preview</th>
+    <th>Game Name</th>
+    <th>Description</th>
+    <th>Version</th>
+    <th>Release Date</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>2023-04-08</td>
-    <td><a href="Easter_Snake/"/>Easter Snake Game</a></td>
-    <td>1.0</td>
-    <td>Funny snake game with the easter rabbit "Django" :rabbit: on the search for his eggs :egg:.</td>
     <td><img src="./pics/snake_preview.gif"</td>
+    <td><a href="Easter_Snake/"/>Easter Snake Game</a></td>
+    <td>Funny snake game with the easter rabbit "Django" :rabbit: on the search for his eggs :egg:.</td>
+    <td>1.0</td>
+    <td>2023-04-08</td>
   </tr>
 </tbody>
 </table>
