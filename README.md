@@ -29,21 +29,21 @@ And now in the sense of the ancient romans:
     <td><img src="./pics/snake_preview.gif"</td>
     <td><a href="Easter_Snake/"/>Easter Snake Game</a></td>
     <td>Funny snake game with the easter rabbit "Django" :rabbit: on the search for his eggs :egg:.</td>
-    <td>1.0</td>
+    <td align=center>Desktop<br />1.0</td>
     <td>2023-04-08</td>
   </tr>
   <tr>
     <td><img src="./pics/snake_preview-1.1.gif"</td>
     <td><a href="Easter_Snake/"/>Easter Snake Game</a></td>
     <td>"Django" :rabbit: gets egg :egg: power :muscle: and becomes faster and more points after finding 10 eggs each time. Also he gots his own Speed gauge. Yeahhh</td>
-    <td>1.1</td>
+    <td align=center>Desktop<br />1.1</td>
     <td>2023-04-09</td>
   </tr>
   <tr>
     <td><img src="./pics/flappy_preview-0.1.gif"</td>
     <td><a href="Flappee_Android/"/>Flappee</a></td>
     <td>Simple Flappy clone demo for Android, collision detection not yet implemented, no GUI</td>
-    <td>0.1</td>
+    <td align=center>Android<br />0.1</td>
     <td>2023-04-13</td>
   </tr>
 
