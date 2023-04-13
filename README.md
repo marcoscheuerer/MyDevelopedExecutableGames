@@ -39,6 +39,13 @@ And now in the sense of the ancient romans:
     <td>1.1</td>
     <td>2023-04-09</td>
   </tr>
+  <tr>
+    <td><img src="./pics/flappy_preview-0.1.gif"</td>
+    <td><a href="Flappee_Android/"/>Flappee</a></td>
+    <td>Simple Flappy clone demo for Android, collision detection not yet implemented, no GUI</td>
+    <td>0.1</td>
+    <td>2023-04-13</td>
+  </tr>
 
 </tbody>
 </table>
